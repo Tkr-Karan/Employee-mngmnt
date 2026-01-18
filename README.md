@@ -30,7 +30,16 @@ npm install
 
 To start the development server, run:
 
+
+
 ```bash
+
+git clone <PROJECT_NAME>
+
+cd <PROJECT_NAME>
+
+npm i 
+
 npm run dev
 ```
 
